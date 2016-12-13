@@ -1,4 +1,4 @@
-Copyright (c) 2013 Alex Gibbons
+Copyright (c) 2013 Code Bag
 
 MIT License
 

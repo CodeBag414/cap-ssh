@@ -6,8 +6,8 @@ require 'cap-ssh/version'
 Gem::Specification.new do |gem|
   gem.name          = "cap-ssh"
   gem.version       = Cap::SSH::VERSION
-  gem.authors       = ["Alex Gibbons"]
-  gem.email         = ["alex.gibbons@gmail.com"]
+  gem.authors       = ["Code Bag"]
+  gem.email         = ["codebag2345@gmail.com"]
   gem.description   = %q{Initiate an SSH session from your Capistrano configured servers.}
   gem.summary       = %q{Capistrano recipe to connect to servers over SSH}
   gem.homepage      = ""
